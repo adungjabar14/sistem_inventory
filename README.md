@@ -24,10 +24,17 @@ Menjadi toko iPhone second inter terpercaya yang menyediakan produk berkualitas 
 6. Manajemen Vendor
 7. Distribusi Barang
 # Login
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fcb46241-bf43-42b2-b77d-7e6886ae1616" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f941ef3a-6ac6-4b13-9ece-921abd7a1a44" />
+
 
 
 # User
-![Dashboard user](assets/img/dashuser.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0ff10be-509f-48d0-9b7d-1cdd827e7ca0" />
+
+
+
 # Admin
-![Dashboard admin](assets/img/dashadmin.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4385eb8d-0840-492b-ae77-285e5318ca45" />
+
+
+
